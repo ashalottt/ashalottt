@@ -1,4 +1,4 @@
-Hi! I’m @abbrash aka Ashley
+Hi! I’m @abbr-ash aka Ashley
 
 I'm passionate about animals and helping others through lines of code.
 
